@@ -20,7 +20,7 @@ main ()
    printf ("q = %s\n", q);
    printf ("Notice that even though q was assigned p, q is not incremented\n");
 
-   str = "now is the time for all good men to come to the aid of thier country";
+   str = "now is the time for all good men to come to the aid of their country";
    printf ("str = %s\n", str);
    printf ("p = %s\n", p);
    printf ("q = %s\n", q);
